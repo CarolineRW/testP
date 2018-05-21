@@ -2,7 +2,8 @@
 Test Project to work with Github
 short def of project
 team members and roles
-tools, i.e Unity 2017.??
+tools, i.e 
+Unity 2017.3.1f1
 # Premade Unity asset credits:
 Foliage free - John Doe <link>
 # Music Credits
